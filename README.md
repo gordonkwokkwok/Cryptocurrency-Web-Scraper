@@ -1,4 +1,4 @@
-# ⭐️ Real Estate Web Scraper
+# ⭐️ Cryptocurrency Web Scraper
 
 <p align="center">
 Add a Image
