@@ -1,7 +1,7 @@
 # ⭐️ Cryptocurrency Web Scraper
 
 <p align="center">
-Add a Image
+  <img src="https://github.com/gordonkwokkwok/Cryptocurrency-Web-Scraper/assets/112631794/bcd5da48-16df-462b-9401-5ab7aea8b6ea" alt="Cryptocurrency" width="700">
 </p>
 
 ## 📚 Introduction
@@ -62,9 +62,8 @@ conda activate cantekEnv
 jupyter notebook
 ```
 
-## 🌐 Dataset
-- [Link](https) ; or
-- [Download Here](https)
+## 🌐 Scraped Dataset
+- [Link](https://github.com/gordonkwokkwok/Cryptocurrency-Web-Scraper/blob/main/output.csv)
 
 ## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
@@ -83,3 +82,7 @@ I am thankful for their valuable input, feedback, and assistance throughout the 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gordonhei25)
 
 Give a ⭐️ if this project helped you!
+
+<p align="center">
+  <img src="https://github.com/gordonkwokkwok/Cryptocurrency-Web-Scraper/assets/112631794/33a3d07a-5e38-489e-b577-5177fb049aa0" alt="bitcoin" width="150">
+</p>
